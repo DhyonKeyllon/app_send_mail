@@ -13,7 +13,7 @@
 ### Tela inicial
 
 <p align="center">
-    <img src="tela_inicial.PNG" alt="Tela Home">
+    <img src="tela_home.PNG" alt="Tela Home">
 </p>
 
 Sistema de envio de e-mail utilizando o php mailer. Front-end criado com bootstrap4.
