@@ -7,8 +7,11 @@
 </p>
 
 <!-- Telas -->
+
 ## Sobre o projeto
+
 ### Tela inicial
+
 <p align="center">
     <img src="tela_inicial.PNG" alt="Tela Home">
 </p>
@@ -17,9 +20,10 @@ Sistema de envio de e-mail utilizando o php mailer. Front-end criado com bootstr
 
 ### Recursos usados
 
-* [PHP](https://www.php.net/)
-* [Bootstrap 4](https://getbootstrap.com/)
-* [lib - PHPMailer](https://github.com/PHPMailer/PHPMailer)
+- [PHP](https://www.php.net/)
+- [Bootstrap 4](https://getbootstrap.com/)
+- [lib - PHPMailer](https://github.com/PHPMailer/PHPMailer)
+
 ## Sobre
 
 Projeto desenvolvido totalmente para fins acadêmicos.
