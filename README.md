@@ -10,7 +10,7 @@
 ## Sobre o projeto
 ### Tela inicial
 <p align="center">
-    <img src="img/tela_inicial.PNG" alt="Screenshot Home">
+    <img src="tela_inicial.PNG" alt="Screenshot Home">
 </p>
 
 Sistema de envio de e-mail utilizando o php mailer. Front-end criado com bootstrap4.
