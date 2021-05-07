@@ -21,9 +21,11 @@
       			<div class="col-md-12">
   				
 					<div class="card-body font-weight-bold">
+						<!-- form com o action e o metodo de envio post -->
 						<form action="processa_envio.php" method="post">
 							<div class="form-group">
 								<label for="para">Para</label>
+								<!-- sempre necessario por names para recuperar o atributo name dos elementos inputs -->
 								<input name="para" type="text" class="form-control" id="para" placeholder="dhyon@dominio.com.br">
 							</div>
 
