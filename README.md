@@ -16,7 +16,7 @@
     <img src="tela_home.PNG" alt="Tela Home">
 </p>
 
-Sistema de envio de e-mail utilizando o php mailer. Front-end criado com bootstrap4.
+Sistema de envio de e-mail utilizando o php mailer.
 
 ### Recursos usados
 
